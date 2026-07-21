@@ -51,6 +51,8 @@ Overall delinquency rate: 6.06%
 ## Key Takeaways
 
 
-Revenue is heavily concentrated in a small set of segments — customers aged 40+ and high-income customers drive the majority of overall revenue, useful for targeted retention and upsell strategy
-Despite being entry-level, Blue-tier cards contribute the largest share of transactions simply due to customer volume, highlighting an opportunity to grow premium-tier adoption
+Revenue is heavily concentrated in a small set of segments — customers aged 40+ and high-income customers drive the majority of overall revenue, useful for targeted retention and upsell strategy.
+
+Despite being entry-level, Blue-tier cards contribute the largest share of transactions simply due to customer volume, highlighting an opportunity to grow premium-tier adoption.
+
 Delinquency (~6%) and activation (~57.5%) rates offer a baseline for tracking portfolio health and onboarding effectiveness over time
