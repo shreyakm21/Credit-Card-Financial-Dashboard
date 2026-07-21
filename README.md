@@ -17,7 +17,7 @@ SQL — source data (customer & transaction records)
 DAX — custom measures for revenue, time-intelligence (WoW growth), and segmentation
 
 
-##Dashboard Pages
+## Dashboard Pages
 
 - **Revenue Overview** — revenue and transaction trends by quarter, broken down by expenditure type, education level, job, card category, and chip usage
 - **Card Category Deep-Dive** — KPI cards (revenue, interest, transaction amount/count), summary table by card category, and customer distribution across quarter, gender, card category, and income group
@@ -48,7 +48,7 @@ Overall activation rate: 57.5%
 Overall delinquency rate: 6.06%
 
 
-- **Key Takeaways**
+## Key Takeaways
 
 
 Revenue is heavily concentrated in a small set of segments — customers aged 40+ and high-income customers drive the majority of overall revenue, useful for targeted retention and upsell strategy
