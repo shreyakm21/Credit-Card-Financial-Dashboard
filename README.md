@@ -20,6 +20,7 @@ DAX — custom measures for revenue, time-intelligence (WoW growth), and segment
 ## Dashboard Pages
 
 - **Revenue Overview** — revenue and transaction trends by quarter, broken down by expenditure type, education level, job, card category, and chip usage
+![Revenue Overview](image1.jpg)
 - **Card Category Deep-Dive** — KPI cards (revenue, interest, transaction amount/count), summary table by card category, and customer distribution across quarter, gender, card category, and income group
 - **Customer Demographics** — KPI cards (revenue, interest, income, satisfaction score), weekly revenue trends by gender, and revenue by gender, income group, and age group
 
