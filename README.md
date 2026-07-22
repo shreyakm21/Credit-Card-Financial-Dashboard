@@ -36,22 +36,32 @@ DAX — custom measures for revenue, time-intelligence (WoW growth), and segment
 
 
 Revenue increased by 28.8%.
+
 Total Transaction Amount increased by 35.0%.
+
 Total Transaction Count increased by 3.4%.
+
 Active customer count increased by 12.8%.
 
 
 - **Year-to-Date Overview**
 
 
-Overall revenue: $57M.
-Total interest earned: $8M.
-Total transaction amount: $46M.
-Male customers contribute more to revenue ($31M) than female customers ($26M).
-Blue and Silver card categories together account for 93% of overall transactions.
-TX, NY, and CA together contribute 68% of transaction volume.
-Overall activation rate: 57.5%.
-Overall delinquency rate: 6.06%.
+Overall revenue: $57M
+
+Total interest earned: $8M
+
+Total transaction amount: $46M
+
+Male customers contribute more to revenue ($31M) than female customers ($26M)
+
+Blue and Silver card categories together account for 93% of overall transactions
+
+TX, NY, and CA together contribute 68% of transaction volume
+
+Overall activation rate: 57.5%
+
+Overall delinquency rate: 6.06%
 
 
 ## Key Takeaways
